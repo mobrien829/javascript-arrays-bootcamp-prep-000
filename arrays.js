@@ -5,7 +5,8 @@ var chocolateBars = [
   'skittles',
   ]
   
-function addElementToBeginningOfArray(array, element) {
-  var array = ['a']
-  var
+var array = [1]
+  
+function addElementToBeginningOfArray(array, b) {
+  var array2 = ['${b}', ...]
 }
