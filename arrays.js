@@ -9,3 +9,5 @@ function addElementToBeginningOfArray(a, b) {
   const array = ['a']
   const newArray = ['b', ...array]
 }
+
+chocolateBars
